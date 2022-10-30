@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.array-container {
+  display: flex;
+  justify-content: center;
+}
+
+.magic-tile {
+  display: inline;
+  width: 45px;
+  height: 45px;
+  background-color: #04348e;
+  color: white;
+  margin: 2px;
+  border-radius: 5px;
+  line-height: 45px;
+}
